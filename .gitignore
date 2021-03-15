@@ -1,2 +1,3 @@
 /.vscode/*
-/django_project_panayot_viktor/django_project_panayot_viktor/*
+/django_project_panayot_viktor/django_project_panayot_viktor/settings.py
+.pyc
